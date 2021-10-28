@@ -12,8 +12,8 @@
 }
 
 body {
-    background-color: #21222c;
-	color: #D8DEE9;
+    background-color: #282828;
+	color: #ebdbb2;
     background-image: url("resources/background.png");
     backdrop-filter: blur(10px);
     background-repeat: no-repeat;
@@ -57,11 +57,11 @@ a, a:visited, a:hover, .box .box-container:hover, .box .box-container {
 /* ------------- LINK STYLING ------------- */ 
 
 a, a:visited {
-	color: #6272a4;
+	color: #a89984;
 }
 
 a:hover {
-	color: #50fa7b;
+	color: #ebdbb2;
 }
 
 a, a:visited, a:hover {
@@ -99,7 +99,7 @@ a, a:visited, a:hover {
 }
 
 .box .box-container {
-	background-color: #21222c;
+	background-color: #282828;
 	width: 450px;
 	height: 320px;
 	float: left;
@@ -114,7 +114,7 @@ a, a:visited, a:hover {
 .box .box-container .heading {
 	margin: 25px 0 9px 15px;
 	font-family: Inconsolata;
-    color: #d6acff;
+    color: #a9b665;
 	font-size: 30px;
 	text-align: left;
     display: inline-block;
@@ -124,7 +124,7 @@ a, a:visited, a:hover {
 /* ------------- SEARCH STYLING ------------- */ 
 
 .container form {
-	background-color: #21222c;
+	background-color: #282828;
 	border-radius: 5px;
 	width: 450px;
 	margin-bottom: 80px;
@@ -141,7 +141,7 @@ a, a:visited, a:hover {
 .container form .search-field {
 	width: 89%;
 	padding-left: 15px;
-	color: #D8DEE9;
+	color: #ebdbb2;
 	font-size: 30px;
 	font-family: Inconsolata;
 	bottom: -1px;
@@ -159,7 +159,7 @@ a, a:visited, a:hover {
 .container form .search-submit::before {
 	background-image:url(google1.svg);
 	background-position:center center;
-	fill: #D8DEE9;
+	fill: #ebdbb2;
 	content:"";
 	width:23px;
 	height:23px;
