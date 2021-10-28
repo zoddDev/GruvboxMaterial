@@ -1,0 +1,36 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1920.1080" x="668" y="161" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1834" height="275" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1834" height="275" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1834" height="275" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1834" height="275" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1834" height="339" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1834" height="339" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1834" height="339" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1834" height="339" />
+    <size key="find.popup.0.0.1920.1080" width="584" height="753" />
+  </component>
+  <component name="WindowManager">
+    <frame x="20" y="48" width="1876" height="1008" extendedState="1" />
+    <layout>
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="747" y="209" key="FileChooserDialogImpl" timestamp="1608651519968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="209" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1608651519968" />
+    <state x="833" y="304" width="864" height="349" key="bookmarks" timestamp="1608563666627">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="833" y="304" width="864" height="349" key="bookmarks/0.0.1920.1080" timestamp="1608563666627" />
+  </component>
+</application>
