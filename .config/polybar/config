@@ -301,7 +301,7 @@ format-volume-padding = 1
 
 format-muted = <label-muted>
 ;format-muted-background = ${colors.white} 	
-format-muted-foreground = ${colors.white}
+format-muted-foreground = ${colors.red}
 label-muted ="  "
 format-muted-font = 2
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
