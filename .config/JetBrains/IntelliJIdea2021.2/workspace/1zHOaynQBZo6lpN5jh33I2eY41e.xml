@@ -1,6 +1,16 @@
 <project version="4">
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/org/tzi/use/api/UseModelApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="79" column="2" lean-forward="true" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -12,6 +22,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -19,20 +30,45 @@
               <item name="use" type="b2602c69:ProjectViewProjectNode" />
               <item name="use-6.0.0" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="use-6.0.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="use-6.0.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="use-6.0.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="use-6.0.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="use" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68000" />
+    <option name="totallyTimeSpent" value="361000" />
   </component>
   <component name="ToolWindowManager">
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12976947" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12988281" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />
@@ -71,5 +107,20 @@
         <option value="ANT" />
       </set>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="204" key="SettingsEditor" timestamp="1635518673873">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="781" y="204" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1635518673873" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/org/tzi/use/api/UseModelApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="79" column="2" lean-forward="true" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

@@ -10,6 +10,7 @@ bspc monitor -d   ﬏    ﭮ 
 bspc config window_gap          0
 bspc config split_ratio          0.6
 bspc config border_width         2
+bspc config top_padding 28
 bspc config focused_border_color "#a89984"
 bspc config normal_border_color "#282828"
 
