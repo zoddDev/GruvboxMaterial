@@ -142,9 +142,8 @@ a, a:visited, a:hover {
 	width: 89%;
 	padding-left: 15px;
 	color: #ebdbb2;
-	font-size: 30px;
+	font-size: 25px;
 	font-family: Inconsolata;
-	bottom: -1px;
 }
 
 .container form .search-submit {
